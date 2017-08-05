@@ -25,7 +25,7 @@ SECRET_KEY = '26ji!yg!1z$2=z0t89m$1oz&5*t5)=9w!u8e8v%-l$e445)^an'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'leahech.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'migrantmum.pythonanywhere.com']
 
 
 # Application definition
